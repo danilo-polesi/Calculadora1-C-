@@ -1,0 +1,14 @@
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\bin\Debug\netcoreapp3.1\PRJCalc.exe
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\bin\Debug\netcoreapp3.1\PRJCalc.deps.json
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\bin\Debug\netcoreapp3.1\PRJCalc.runtimeconfig.json
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\bin\Debug\netcoreapp3.1\PRJCalc.runtimeconfig.dev.json
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\bin\Debug\netcoreapp3.1\PRJCalc.dll
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\bin\Debug\netcoreapp3.1\PRJCalc.pdb
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\obj\Debug\netcoreapp3.1\PRJCalc.csproj.AssemblyReference.cache
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\obj\Debug\netcoreapp3.1\PRJCalc.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\obj\Debug\netcoreapp3.1\PRJCalc.AssemblyInfoInputs.cache
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\obj\Debug\netcoreapp3.1\PRJCalc.AssemblyInfo.cs
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\obj\Debug\netcoreapp3.1\PRJCalc.csproj.CoreCompileInputs.cache
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\obj\Debug\netcoreapp3.1\PRJCalc.dll
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\obj\Debug\netcoreapp3.1\PRJCalc.pdb
+E:\ETEC\Algoritmos e Logica de programação - Carlos\C#\Calculadora\PRJCalc\PRJCalc\obj\Debug\netcoreapp3.1\PRJCalc.genruntimeconfig.cache
