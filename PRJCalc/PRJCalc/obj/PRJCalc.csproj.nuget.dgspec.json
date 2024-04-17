@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ETEC\\1º Semestre\\Algoritmos e Logica de programação - Carlos\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj": {}
+    "C:\\Users\\Polesi\\Documents\\GitHub\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj": {}
   },
   "projects": {
-    "D:\\ETEC\\1º Semestre\\Algoritmos e Logica de programação - Carlos\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj": {
+    "C:\\Users\\Polesi\\Documents\\GitHub\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ETEC\\1º Semestre\\Algoritmos e Logica de programação - Carlos\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj",
+        "projectUniqueName": "C:\\Users\\Polesi\\Documents\\GitHub\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj",
         "projectName": "PRJCalc",
-        "projectPath": "D:\\ETEC\\1º Semestre\\Algoritmos e Logica de programação - Carlos\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj",
-        "packagesPath": "C:\\Users\\ETEC_DANS\\.nuget\\packages\\",
-        "outputPath": "D:\\ETEC\\1º Semestre\\Algoritmos e Logica de programação - Carlos\\C#\\Calculadora\\PRJCalc\\PRJCalc\\obj\\",
+        "projectPath": "C:\\Users\\Polesi\\Documents\\GitHub\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj",
+        "packagesPath": "C:\\Users\\Polesi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Polesi\\Documents\\GitHub\\C#\\Calculadora\\PRJCalc\\PRJCalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ETEC_DANS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Polesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -41,6 +40,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -52,16 +56,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

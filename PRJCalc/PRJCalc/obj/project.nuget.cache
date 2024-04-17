@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HXl7NFuXgCIB4blBLQE09+0DHA6OZH+rk4AczKau78FFt8+70yGW0Pns+Z92s3v+HGX/POO9E9M2AqgYU/fAvQ==",
+  "dgSpecHash": "rw3IZsb+506g58VJOh3dyvHQNp7SUvEvb2HJeleqq6uYVnL70m6FqhFJ4qqOy+rUzj++i6NnwN7jWyWKkflT6g==",
   "success": true,
-  "projectFilePath": "D:\\ETEC\\1º Semestre\\Algoritmos e Logica de programação - Carlos\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Polesi\\Documents\\GitHub\\C#\\Calculadora\\PRJCalc\\PRJCalc\\PRJCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Polesi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Polesi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Polesi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Polesi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
